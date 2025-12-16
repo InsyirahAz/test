@@ -1,2 +1,2 @@
 # test
-Today new learn GITHUB.!
+Today new learn GITHUB.
